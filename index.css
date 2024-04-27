@@ -246,6 +246,7 @@
 .gallary .card img{
     border-radius: 10px;
     transition: 0.5s;
+    width: 350px;
 }
 .gallary .card img:hover{
     transform: scale(1.1);
